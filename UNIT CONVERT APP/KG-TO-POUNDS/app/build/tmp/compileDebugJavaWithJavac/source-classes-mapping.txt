@@ -1,0 +1,5 @@
+com/example/kg_pounds/BuildConfig.java
+ com.example.kg_pounds.BuildConfig
+com/example/kg_pounds/MainActivity.java
+ com.example.kg_pounds.MainActivity
+ com.example.kg_pounds.MainActivity$1
